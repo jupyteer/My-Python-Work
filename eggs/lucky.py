@@ -2,3 +2,4 @@
 from random import randint
 n = randint(1,100)
 print(f"你今天的幸運數字 {n}!")
+
